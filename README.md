@@ -12,7 +12,10 @@ This project uses next/font to optimize and load the Inter font.
 
 Learn More
 Next.js Docs – Features and API.
+
 Next.js Tutorial – Interactive guide.
+
 GitHub Repository – Join and contribute!
+
 Deploy on Vercel
 Easily deploy your app on Vercel. For more details, check the deployment guide.
